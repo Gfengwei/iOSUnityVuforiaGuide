@@ -1,6 +1,6 @@
 # iOSUnityVuforiaGuide
 
-[简单工程集成步骤](http://www.jianshu.com/p/dc68baad8bdb)
+[简单的集成方法](http://www.jianshu.com/p/dc68baad8bdb)
 
 [Demo下载 密码:71ry](https://pan.baidu.com/s/1pKGkiJx)
 
