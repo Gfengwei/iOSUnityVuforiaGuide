@@ -1,4 +1,9 @@
 # iOSUnityVuforiaGuide
+
+[简单工程集成步骤](http://www.jianshu.com/p/dc68baad8bdb)
+
+[Demo地址 密码:71ry](https://pan.baidu.com/s/1pKGkiJx)
+
 Integration of Unity 5.3 + Vuforia 5.5.9 project with native iOS application (Xcode 7.3)
 
 Inspired by [the-nerd.be](https://the-nerd.be/) tutorials, by Frederik Jacques.
